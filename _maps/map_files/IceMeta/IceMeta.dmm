@@ -37918,9 +37918,6 @@
 	pixel_x = -1;
 	pixel_y = 27
 	},
-/obj/effect/turf_decal/tile/red/half/contrasted{
-	dir = 1
-	},
 /turf/open/floor/plasteel,
 /area/security/checkpoint/science/research)
 "kUH" = (
@@ -40187,7 +40184,6 @@
 "lEZ" = (
 /obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer4,
 /obj/machinery/atmospherics/pipe/simple/supply/hidden/layer2,
-/obj/effect/turf_decal/tile/red/half/contrasted,
 /obj/structure/cable/yellow{
 	icon_state = "1-2"
 	},
@@ -41527,9 +41523,6 @@
 "lWS" = (
 /obj/structure/chair,
 /obj/machinery/light{
-	dir = 1
-	},
-/obj/effect/turf_decal/tile/red/half/contrasted{
 	dir = 1
 	},
 /turf/open/floor/plasteel,
@@ -45021,9 +45014,6 @@
 	dir = 4;
 	pixel_x = -26
 	},
-/obj/effect/turf_decal/tile/red/half/contrasted{
-	dir = 8
-	},
 /turf/open/floor/plasteel,
 /area/security/checkpoint/science/research)
 "mRM" = (
@@ -46674,9 +46664,6 @@
 	dir = 4;
 	name = "Security Post - Research Division APC";
 	pixel_x = 24
-	},
-/obj/effect/turf_decal/tile/red/half/contrasted{
-	dir = 4
 	},
 /obj/structure/cable/yellow{
 	icon_state = "0-8"
@@ -65374,7 +65361,6 @@
 	dir = 1;
 	pixel_y = -24
 	},
-/obj/effect/turf_decal/tile/red/half/contrasted,
 /turf/open/floor/plasteel,
 /area/security/checkpoint/science/research)
 "sOe" = (
@@ -69176,7 +69162,6 @@
 /turf/open/floor/plasteel/white,
 /area/medical/virology)
 "tTb" = (
-/obj/effect/turf_decal/tile/red/half/contrasted,
 /turf/open/floor/plasteel,
 /area/security/checkpoint/science/research)
 "tTg" = (
@@ -74217,9 +74202,6 @@
 "vqe" = (
 /obj/machinery/atmospherics/pipe/simple/supply/hidden/layer2,
 /obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer4,
-/obj/effect/turf_decal/tile/red/half/contrasted{
-	dir = 1
-	},
 /obj/structure/cable/yellow{
 	icon_state = "1-2"
 	},
@@ -75871,9 +75853,6 @@
 /obj/structure/chair,
 /obj/structure/reagent_dispensers/peppertank{
 	pixel_y = 28
-	},
-/obj/effect/turf_decal/tile/red/half/contrasted{
-	dir = 1
 	},
 /turf/open/floor/plasteel,
 /area/security/checkpoint/science/research)
