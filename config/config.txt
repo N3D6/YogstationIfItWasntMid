@@ -1,5 +1,3 @@
-// poop
-
 # You can use the "$include" directive to split your configs however you want
 
 $include game_options.txt
